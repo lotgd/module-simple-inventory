@@ -1,6 +1,6 @@
 {
     "name": "lotgd/module-simple-inventory",
-    "description": "Constants for defining weapons and armor for Characters.",
+    "description": "Constants and models for defining weapons and armor for Characters.",
     "type": "lotgd-module",
     "license": "AGPL-3.0",
     "authors": [
