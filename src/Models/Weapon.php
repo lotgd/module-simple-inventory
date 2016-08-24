@@ -40,9 +40,8 @@ class Weapon extends Item
     /**
      * Sets the attack value for this weapon.
      */
-    public function setAttack:(int $attack)
+    public function setAttack(int $attack)
     {
         $this->attack = $attack;
     }
 }
-

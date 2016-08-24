@@ -40,9 +40,8 @@ class Armor extends Item
     /**
      * Sets the defense value for this weapon.
      */
-    public function setDefense:(int $defense)
+    public function setDefense(int $defense)
     {
         $this->defense = $defense;
     }
 }
-

@@ -1,3 +1,2 @@
-entityNamespace: \\LotGD\\Modules\\SimpleInventory\\Models
+entityNamespace: "LotGD\\Modules\\SimpleInventory\\Models\\"
 subscriptionPatterns:
-

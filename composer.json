@@ -11,8 +11,16 @@
     ],
     "autoload": {
         "psr-4": {
-            "LotGD\\Modules\\SimpleInventory": "src/"
+            "LotGD\\Modules\\SimpleInventory\\": "src/"
         }
     },
-    "require": {}
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://code.lot.gd"
+        }
+    ],
+    "require": {
+        "lotgd/core": "dev-master"
+    }
 }
